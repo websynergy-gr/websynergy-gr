@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://websynergy.gr/taxonomy/term/40/all" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>One page</title>
+    <link>http://websynergy.gr/taxonomy/term/40/all</link>
+    <description></description>
+    <language>el</language>
+          <item>
+    <title>Website για τη Fatcutproductions (μαθήματα και video kitesurfing)</title>
+    <link>http://websynergy.gr/website/2009/website-%CE%B3%CE%B9%CE%B1-%CF%84%CE%B7-fatcutproductions-%CE%BC%CE%B1%CE%B8%CE%AE%CE%BC%CE%B1%CF%84%CE%B1-%CE%BA%CE%B1%CE%B9-video-kitesurfing</link>
+    <description>&lt;p&gt;Σχεδιασμός και ανάπτυξη ιστοσελίδας για την εταιρεία Fatcutproductions. Για την κατασκευή του έχει χρησιμοποιηθεί το σύστημα διαχείρισης περιεχομένου &lt;a href=&quot;http://drupal.org/&quot; target=&quot;_blank&quot; title=&quot;CMS&quot;&gt; Drupal.&lt;/a&gt;&lt;/p&gt;
+</description>
+     <category domain="http://websynergy.gr/websites/2009">2009</category>
+ <category domain="http://websynergy.gr/website-category/%CE%B5%CF%84%CE%B1%CE%B9%CF%81%CE%B9%CE%BA%CE%AC">Εταιρικά</category>
+ <category domain="http://websynergy.gr/technologies/one-page">One page</category>
+ <category domain="http://websynergy.gr/technologies/xhtml">XHTML</category>
+ <pubDate>Wed, 17 Jun 2009 13:12:15 +0000</pubDate>
+ <dc:creator>paul</dc:creator>
+ <guid isPermaLink="false">45 at http://websynergy.gr</guid>
+  </item>
+  </channel>
+</rss>

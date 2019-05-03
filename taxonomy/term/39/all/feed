@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://websynergy.gr/taxonomy/term/39/all" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Multilingual</title>
+    <link>http://websynergy.gr/taxonomy/term/39/all</link>
+    <description></description>
+    <language>el</language>
+          <item>
+    <title>Mellon Group of Companies</title>
+    <link>http://websynergy.gr/website/2013/mellon-group-of-companies</link>
+    <description>&lt;p&gt;Η Mellon είναι ένας πολυεθνικός Όμιλος - περιλαμβάνει τη μεγαλύτερη εταιρία στο χώρο των συναλλαγών στην Ελλάδα - ο οποίος παρέχει εξειδικευμένες λύσεις και υπηρεσίες για τη διευκόλυνση των συναλλαγών οργανισμών με μεγάλο αριθμό συναλλασσόμενων όπως τράπεζες, οργανισμούς κοινής ωφέλειας, τηλεπικοινωνιακούς πάροχους και μεγάλες αλυσίδες καταστημάτων. Το νέο τους website βασίστηκε στην πλατφόρμα Drupal. Είναι πολύγλωσσο (Αγγλικά και Ελληνικά), έχει διαφορετικά layouts στις εσωτερικές σελίδες και εγγραφή σε newsletter. Χρησιμοποιήθηκε adaptive theme και CSS3.&lt;/p&gt;
+</description>
+     <category domain="http://websynergy.gr/websites/2013">2013</category>
+ <category domain="http://websynergy.gr/website-category/%CE%B5%CF%84%CE%B1%CE%B9%CF%81%CE%B9%CE%BA%CE%AC">Εταιρικά</category>
+ <category domain="http://websynergy.gr/technologies/css3">CSS3</category>
+ <category domain="http://websynergy.gr/technologies/drupal-7">Drupal 7</category>
+ <category domain="http://websynergy.gr/technologies/multilingual">Multilingual</category>
+ <pubDate>Sun, 06 Jan 2013 13:12:58 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">133 at http://websynergy.gr</guid>
+  </item>
+  <item>
+    <title>Villa tholos Crete</title>
+    <link>http://websynergy.gr/website/2009/villa-tholos-crete</link>
+    <description>&lt;p&gt;Δημιουργία δυναμικής ιστοσελίδας για την για την ξενοδοχειακή επιχείρηση Villa thollos στην Κρήτη. Για την κατασκευή του website έχει χρησιμοποιηθεί το cms Drupal καθώς και τεχνολογίες flash, javascript και ajax.&lt;/p&gt;
+</description>
+     <category domain="http://websynergy.gr/websites/2009">2009</category>
+ <category domain="http://websynergy.gr/website-category/%CE%B5%CF%84%CE%B1%CE%B9%CF%81%CE%B9%CE%BA%CE%AC">Εταιρικά</category>
+ <category domain="http://websynergy.gr/website-category/%CF%84%CE%BF%CF%85%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82">Τουρισμός</category>
+ <category domain="http://websynergy.gr/technologies/ajax">Ajax</category>
+ <category domain="http://websynergy.gr/technologies/flash">flash</category>
+ <category domain="http://websynergy.gr/technologies/javascript">javascript</category>
+ <category domain="http://websynergy.gr/technologies/multilingual">Multilingual</category>
+ <category domain="http://websynergy.gr/technologies/xhtml">XHTML</category>
+ <pubDate>Tue, 25 Aug 2009 09:58:44 +0000</pubDate>
+ <dc:creator>paul</dc:creator>
+ <guid isPermaLink="false">68 at http://websynergy.gr</guid>
+  </item>
+  <item>
+    <title>Ιωάννης Π. Αλαβάνος, Δικηγορικό Γραφείο</title>
+    <link>http://websynergy.gr/website/2008/%CE%B9%CF%89%CE%AC%CE%BD%CE%BD%CE%B7%CF%82-%CF%80-%CE%B1%CE%BB%CE%B1%CE%B2%CE%AC%CE%BD%CE%BF%CF%82-%CE%B4%CE%B9%CE%BA%CE%B7%CE%B3%CE%BF%CF%81%CE%B9%CE%BA%CF%8C-%CE%B3%CF%81%CE%B1%CF%86%CE%B5%CE%AF%CE%BF</link>
+    <description>&lt;p&gt;Σχεδιασμός και ανάπτυξη δυναμικής ιστοσελίδας για το δικηγορικό γραφείο Ιωάννης Π. Αλαβάνος στην Αθήνα. Το site ενημερώνεται τακτικά και για την κατασκευή του έχει χρησιμοποιηθεί το σύστημα διαχείρισης περιεχομένου &lt;a href=&quot;http://drupal.org/&quot; target=&quot;_blank&quot; title=&quot;CMS&quot;&gt;Drupal&lt;/a&gt;.&lt;/p&gt;
+</description>
+     <category domain="http://websynergy.gr/websites/2008">2008</category>
+ <category domain="http://websynergy.gr/website-category/%CE%B5%CF%84%CE%B1%CE%B9%CF%81%CE%B9%CE%BA%CE%AC">Εταιρικά</category>
+ <category domain="http://websynergy.gr/technologies/drupal">Drupal</category>
+ <category domain="http://websynergy.gr/technologies/multilingual">Multilingual</category>
+ <category domain="http://websynergy.gr/technologies/xhtml">XHTML</category>
+ <pubDate>Mon, 24 Nov 2008 10:07:17 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">3 at http://websynergy.gr</guid>
+  </item>
+  </channel>
+</rss>

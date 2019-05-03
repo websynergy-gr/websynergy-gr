@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://websynergy.gr/taxonomy/term/34/all" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Lifestyle και Διασκέδαση</title>
+    <link>http://websynergy.gr/taxonomy/term/34/all</link>
+    <description></description>
+    <language>el</language>
+          <item>
+    <title>FilterMusic</title>
+    <link>http://websynergy.gr/website/2006/filtermusic</link>
+    <description>&lt;p&gt;H ιστοσελίδα προσφέρει στους επισκέπτες της έναν κατάλογο από online ραδιοφωνικούς σταθμούς σε υψηλή ποιότητα (128kb), χωρίς διαφημίσεις, οι οποίοι ανανεώνονται καθημερινά. Το FilterMusic έχει πάνω απο 150.000 επισκέπτες το μήνα.&lt;/p&gt;
+</description>
+     <category domain="http://websynergy.gr/websites/2006">2006</category>
+ <category domain="http://websynergy.gr/website-category/lifestyle-%CE%BA%CE%B1%CE%B9-%CE%B4%CE%B9%CE%B1%CF%83%CE%BA%CE%AD%CE%B4%CE%B1%CF%83%CE%B7">Lifestyle και Διασκέδαση</category>
+ <category domain="http://websynergy.gr/technologies/ajax">Ajax</category>
+ <category domain="http://websynergy.gr/technologies/drupal">Drupal</category>
+ <category domain="http://websynergy.gr/technologies/xhtml">XHTML</category>
+ <pubDate>Mon, 24 Nov 2008 10:46:27 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">6 at http://websynergy.gr</guid>
+  </item>
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://websynergy.gr/taxonomy/term/61/all" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>php</title>
+    <link>http://websynergy.gr/taxonomy/term/61/all</link>
+    <description></description>
+    <language>el</language>
+          <item>
+    <title>Κατασκευή ιστοσελίδας για το Hatha Yoga &amp; Pilates studio στην Πάτρα</title>
+    <link>http://websynergy.gr/website/2011/%CE%BA%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE-%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CE%B1%CF%82-%CE%B3%CE%B9%CE%B1-%CF%84%CE%BF-hatha-yoga-pilates-studio-%CF%83%CF%84%CE%B7%CE%BD-%CF%80%CE%AC%CF%84%CF%81%CE%B1</link>
+    <description>&lt;p&gt;Δυναμική ιστοσελιδα για το hatha yoga &amp;amp; pilates studio στην Πάτρα . Η ανάπτυξη του ιστοτόπου βασίστηκε πάνω στο σύστημα διαχείρισης περιεχομένου &lt;a href=&quot;http://drupal.org&quot; target=&quot;_blank&quot;&gt;Drupal&lt;/a&gt;. Χρησιμοποιήθηκαν τεχνολογίες javascript, css, xhtml, php&lt;/p&gt;
+</description>
+     <category domain="http://websynergy.gr/websites/2011">2011</category>
+ <category domain="http://websynergy.gr/website-category/%CE%B5%CF%84%CE%B1%CE%B9%CF%81%CE%B9%CE%BA%CE%AC">Εταιρικά</category>
+ <category domain="http://websynergy.gr/technologies/ajax">Ajax</category>
+ <category domain="http://websynergy.gr/technologies/css">CSS</category>
+ <category domain="http://websynergy.gr/technologies/drupal">Drupal</category>
+ <category domain="http://websynergy.gr/technologies/javascript">javascript</category>
+ <category domain="http://websynergy.gr/technologies/php">php</category>
+ <category domain="http://websynergy.gr/technologies/xhtml">XHTML</category>
+ <pubDate>Mon, 19 Sep 2011 12:05:49 +0000</pubDate>
+ <dc:creator>paul</dc:creator>
+ <guid isPermaLink="false">95 at http://websynergy.gr</guid>
+  </item>
+  </channel>
+</rss>
